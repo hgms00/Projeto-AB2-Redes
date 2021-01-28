@@ -12,11 +12,11 @@ O projeto se trata de um conversor binário, no qual pode fazer a conversão tan
 
 Após extrair o Zip para uma pasta, apenas execute primeiramente o servidor utilizando o comando :
 
-* **python3 server.py
+* python3 server.py
 
 E após executar o servidor, apenas repita o mesmo processo pro cliente:
 
-* **python3 client.py
+* python3 client.py
 
 # Funcionalidades
 
