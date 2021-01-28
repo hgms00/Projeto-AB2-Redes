@@ -2,8 +2,7 @@
 
 # Alunos:
 
-Hugo Gabriel de Melo Santos
-Larissa Duarte Santana
+Hugo Gabriel de Melo Santos e Larissa Duarte Santana
 
 # Descrição
 
